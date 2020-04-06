@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 5.62rem; /*16px = 100% = 1em */
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+*.top-container{
+    background-color: #E4F8F4;
+    position: relative;
+    padding-top: 100px;
+}
+
+*.middle-container{
+
+
+
+}
+.profile-img{
+    border-radius: 50%;
+}
+*.bottom-container{
+
+
+
+}
+.dev{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+a{
+    color:#11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skills-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+/*body{*/
+/*    margin: 0;*/
+/*}*/
+/*div{*/
+/*    !*display: inline-block;*!*/
+/*}*/
+/*.test{*/
+/*    width: 250px;*/
+/*    height:250px;*/
+/*    background: blueviolet;*/
+/*    position: absolute;*/
+
+/*}*/
+/*.red{*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    !*padding: 10px;*!*/
+/*    background-color:  red;*/
+/*    padding: 10px;*/
+/*    border: 10px solid black;*/
+/*    margin-bottom: 10px;*/
+/*    position: absolute;*/
+/*    right: 100px;*/
+/*}*/
+/*.green{*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    background-color:  green;*/
+/*    padding: 10px;*/
+/*    border: 10px solid black;*/
+/*    margin-bottom: 10px;*/
+/*    position: absolute;*/
+/*    !*left: 100px;*!*/
+/*    !*display: none;*!*/
+/*    !*visibility: hidden;*!*/
+/*}*/
+/*.blue{*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    background-color:  blue;*/
+/*    padding: 10px;*/
+/*    border: 10px solid black;*/
+/*    margin-bottom: 10px;*/
+/*    position: absolute;*/
+/*}*/
